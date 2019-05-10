@@ -21,6 +21,7 @@ $moreText = 'Comment allez-vous?';
 </head>
 <body>
     <p id="test">Bonjour</p>
+    <h1>Ceci est un titre niveau 1</h1>
     <br>
     <?php if($feelsGreat) : ?>
         <?php echo $moreText; ?>
