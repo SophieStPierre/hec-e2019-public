@@ -1,0 +1,15 @@
+p {
+	background-color: grey;
+}
+.para {
+	color: red;
+}
+.para-impair {
+	background-color: pink;
+}
+.para-infini {
+	border: 1px dotted blue;
+}
+#test-identifiant {
+	font-weight: bold;
+}
