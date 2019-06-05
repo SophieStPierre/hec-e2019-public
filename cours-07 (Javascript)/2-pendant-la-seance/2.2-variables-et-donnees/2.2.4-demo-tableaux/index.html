@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>demo 2.2.4</title>
+</head>
+<body>
+	<script type="text/javascript">
+		var voitures = ["mazda", "toyota", "honda"];
+		voitures[0] = "audi";
+		console.log(voitures[0]);
+		console.log(voitures[2]);
+		console.log(voitures);
+		var quantiteAutos = voitures.length;
+		console.log(quantiteAutos);
+		var possedeVolvo = voitures.includes("volvo");
+		console.log(possedeVolvo);
+
+
+		voitures.push("volvo");
+		console.log(voitures);
+		quantiteAutos = voitures.length;
+		console.log(quantiteAutos);
+		possedeVolvo = voitures.includes("volvo");
+		console.log(possedeVolvo);
+	</script>
+</body>
+</html>

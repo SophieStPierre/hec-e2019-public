@@ -22,9 +22,8 @@ Jouons un peu avec notre tableau :
 
 Maintenant :
 4. Comment fais-je pour ajouter un élément? .push()
-5. Si je veux transformer mon tableau en texte? .toString()
-6. Propriété : Si je veux connaître la quantité d'éléments dans le tableau (.length), ce qui nous permettrait à titre d'exemple de déterminer la quantité de produits dans un panier d'achats
-7. Si je veux savoir si un élément fait partie de mon tableau? .includes()
+5. Propriété : Si je veux connaître la quantité d'éléments dans le tableau (.length), ce qui nous permettrait à titre d'exemple de déterminer la quantité de produits dans un panier d'achats
+6. Si je veux savoir si un élément fait partie de mon tableau? .includes()
 
 On voit que, pour utiliser certaines propriétés et prendre certaines actions avec mon tableau, je peux utiliser la syntaxe :
 tableau.propriété
